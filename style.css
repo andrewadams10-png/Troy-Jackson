@@ -78,6 +78,10 @@ h2 {
   font-size: 10px;
 }
 
+/* The text color indicates whether a candidate supports or opposes something. 
+Green text means the candidate supports a particular policy position, while 
+red text means they opposition a policy position  */
+
 .green-text {
   color: green;
  }
